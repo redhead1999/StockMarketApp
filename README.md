@@ -4,7 +4,7 @@ Stock market Android app
 Dependency injection with Dagger-Hilt, SOLID principles, CSV parsing with OpenCSV, working with remote APIs using Retrofit, 
 local caching with Room, custom drawing on a canvas using Compose
 
-Unit-tests included
+Testing included
 
 # What is it for
 
@@ -18,5 +18,14 @@ This app shows stock market prices of shares, their description and charts
   <img src="https://user-images.githubusercontent.com/56756554/192892505-0c9e6236-4909-4792-9552-31491021c7db.jpg" width="260">
 </p>
 
+# Приложение для фондового рынка
+Приложение для Android на фондовом рынке
 
+Внедрение зависимостей с помощью Dagger-Hilt, принципы SOLID, синтаксический анализ CSV с помощью OpenCSV, работа с удаленными API с использованием Retrofit,
+локальное кэширование с помощью Room, пользовательское рисование на холсте с помощью Compose
 
+Тестирование включено
+
+# Для чего это нужно
+
+Это приложение показывает биржевые цены акций, их описание и графики
