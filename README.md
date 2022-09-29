@@ -4,6 +4,8 @@ Stock market Android app
 Dependency injection with Dagger-Hilt, SOLID principles, CSV parsing with OpenCSV, working with remote APIs using Retrofit, 
 local caching with Room, custom drawing on a canvas using Compose
 
+Unit-tests included
+
 # What is it for
 
 This app shows stock market prices of shares, their description and charts
